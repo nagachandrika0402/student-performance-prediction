@@ -23,6 +23,8 @@ The project demonstrates fundamental concepts of machine learning including data
 ## Output
 - Predicts marks based on given input values
 - Displays relationship between study hours and performance
+- <img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/cd541259-3ce1-4c75-8fbf-e638beca3238" />
+
 
 ## Future Improvements
 - Use real-world datasets
