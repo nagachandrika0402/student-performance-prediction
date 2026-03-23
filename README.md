@@ -1,3 +1,4 @@
+## 🚀 Project Overview
 # Student Performance Prediction
 
 This project predicts student academic performance based on study hours and sleep patterns using a Machine Learning model.
